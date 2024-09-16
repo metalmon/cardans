@@ -1,4 +1,4 @@
-<h1 align="center">ERPNext add-on for cardans manufacture 👋</h1>
+<h1 align="center">ERPNext add-on for cardans manufacture</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: AGPL3" src="https://img.shields.io/badge/License-AGPL3-yellow.svg" />
