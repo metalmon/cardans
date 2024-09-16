@@ -23,7 +23,7 @@ bench --site your_site install-app cardans_manufacture
 
 👤 **Alex Kuzin**
 
-* Github: [@Metal Monkey](https://github.com/Metal Monkey)
+* Github: [@metalmon](https://github.com/metalmon)
 
 ## Show your support
 
