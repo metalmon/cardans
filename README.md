@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to ERPNext add-on for cardans manufacture 👋</h1>
+<h1 align="center">ERPNext add-on for cardans manufacture 👋</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: AGPL3" src="https://img.shields.io/badge/License-AGPL3-yellow.svg" />
@@ -16,7 +16,7 @@ bench get-app https://github.com/metalmon/cardans
 ## Usage
 
 ```sh
-bench --site &#34;your_site&#34;  install-app cardans_manufacture
+bench --site your_site install-app cardans_manufacture
 ```
 
 ## Author
